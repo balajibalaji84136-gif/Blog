@@ -49,5 +49,6 @@ This project was developed as part of the **IBM Front-End Development** exercise
     https://github.com/balajibalaji84136-gif/Blog 
 2. Deployment:
    '''bash
-   https://github.com/balajibalaji84136-gif/Blog/actions/runs/18397203199/job/52418848796
+
+   https://balajibalaji84136-gif.github.io/Blog/
 
