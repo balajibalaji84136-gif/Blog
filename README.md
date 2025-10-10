@@ -46,8 +46,8 @@ This project was developed as part of the **IBM Front-End Development** exercise
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/joshwa0206/josh
+    https://github.com/balajibalaji84136-gif/Blog 
 2. Deployment:
    '''bash
-   git clone
- (https://joshwa0206.github.io/josh/)
+   https://github.com/balajibalaji84136-gif/Blog/actions/runs/18397203199/job/52418848796
+
